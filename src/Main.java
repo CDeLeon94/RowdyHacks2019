@@ -11,9 +11,6 @@ import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
 
 
-
-
-
 public class Main {
 	static JSONParser parser = new JSONParser();
 	private static String key = "sWFSPYcy1W4lt9jLblN8FnHNYKzUC5gbPQvIH6UyeUw";
